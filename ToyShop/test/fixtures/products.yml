@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  code: MyString
+  title: MyString
+  description: MyText
+  image_url: MyString
+  age: MyString
+  size: MyString
+  price: 9.99
+
+two:
+  code: MyString
+  title: MyString
+  description: MyText
+  image_url: MyString
+  age: MyString
+  size: MyString
+  price: 9.99
