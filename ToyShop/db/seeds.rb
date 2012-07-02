@@ -38,3 +38,14 @@ Product.create(code: 'BB039',
                size: 'Width: 40cm',
                image_url: 'Activitycentre.jpg',
                price: 9.19)
+
+Product.create(code: 'BJT183',
+               title: 'Classic Wooden Supplies Train and Rails BJT183',
+               description:
+                   %{
+        A classic wooden supplies train with two straight rails included. The train itself consists of an engine and three supplies carriages containing logs, a cement mixer and a coal bucket (with removable coal consignment).
+      },
+               age: 'Recommended for children aged 3 years and over.',
+               size: 'N/A',
+               image_url: 'suppliestrain.jpg',
+               price: 11.00)
